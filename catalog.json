@@ -1,4 +1,26 @@
 {
   "version": 1,
-  "gifts": []
+  "gifts": [
+    {
+      "id": "glasses",
+      "title": "Очки",
+      "file": "gifts/glasses.tgs",
+      "price_stars": 0,
+      "created_at": "2026-11-19T16:40:00Z"
+    },
+    {
+      "id": "homelander",
+      "title": "Хоумлендер",
+      "file": "gifts/homelander.tgs",
+      "price_stars": 0,
+      "created_at": "2026-11-19T16:40:00Z"
+    },
+    {
+      "id": "pen-is",
+      "title": "Ручка",
+      "file": "gifts/pen-is.tgs",
+      "price_stars": 0,
+      "created_at": "2026-11-19T16:40:00Z"
+    }
+  ]
 }
